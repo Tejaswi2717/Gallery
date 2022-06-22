@@ -1,0 +1,40 @@
+body {
+    border: none;
+    margin-top: 50px;
+    margin-bottom:50px ;
+    margin-left:200px ;
+    margin-right: 40px;
+}
+
+table {
+    width:1020px;
+    background-color:lightcyan;
+}
+
+h5 {
+    color:blue;
+}
+
+h2 {
+    text-align:center;
+    height: 2px;
+}
+
+p {
+    color:grey;
+    text-align: center;
+    width:1010px;
+    height: 30px;
+}
+
+nav {
+    text-align:center;
+}
+
+button {
+    border-style: none;
+    border:groove green;
+    border-radius:30px;
+}
+
+
